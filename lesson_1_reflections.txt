@@ -12,5 +12,3 @@ Use git log in the directory of git files, use git diff to se the different betw
 How might using version control make you more confident to make changes that could break something?
 Because I can go back any time, I can find bug by git diff too.
 Now that you have your workspace set up, what do you want to try using Git for?
-I don't known.
-jhjhhhghjh
