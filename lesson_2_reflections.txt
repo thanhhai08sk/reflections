@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+A empty .git file is creates. I do it so I can add file for git tracks that file.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It offers the name of file that was add to repositoryy
+mkkjjkjkk
+kjkjk
