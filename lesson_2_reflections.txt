@@ -4,3 +4,5 @@ How is the staging area different from the working directory and the repository?
 It offers the name of file that was add to repositoryy
 mkkjjkjkk
 kjkjk
+How can you use the staging area to make sure you have one commit per logical change?
+use git diff to see what I have changed, if it is a logical change then I add new file to staging area and commit.
